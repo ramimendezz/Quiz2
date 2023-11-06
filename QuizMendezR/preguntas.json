@@ -1,0 +1,47 @@
+[
+    {
+        "categoria": "Filósofos y pensadores",
+        "pregunta": "¿Quién desarrolló una ética deontológica basada en el imperativo categórico?",
+        "respuesta": "Immanuel Kant",
+        "incorrecta1": "Friedrich Nietzsche",
+        "incorrecta2": "Karl Marx",
+        "incorrecta3": "René Descartes",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/800px-Nietzsche187a.jpg"
+    },
+    {
+        "categoria": "Filósofos y pensadores",
+        "pregunta": "¿Quién es conocido por su trabajo en filosofía de la historia y la teoría del poder?",
+        "respuesta": "Michel Foucault",
+        "incorrecta1": "Sócrates",
+        "incorrecta2": "Aristóteles",
+        "incorrecta3": "Platón",
+        "imagen": "https://proassetspdlcom.cdnstatics2.com/usuaris/autores/thumbs/fdd2a9fe-bc45-4e21-b10c-d9dc559a3e20/d_380_380_crop/000041548_1_Michel_Foucault_201607160536.webp"
+    },
+    {
+        "categoria": "Filósofos y pensadores",
+        "pregunta": "¿Cuál de estos pensadores se centró en la sociología y la teoría de la acción social?",
+        "respuesta": "Max Weber",
+        "incorrecta1": "Sísifo",
+        "incorrecta2": "René Descartes",
+        "incorrecta3": "Sócrates",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2014/11/17/14162263394528.jpg"
+    },
+    {
+        "categoria": "Filósofos y pensadores",
+        "pregunta": "¿Quién es famoso por su énfasis en la duda metódica y su declaración 'Cogito, ergo sum'?",
+        "respuesta": "René Descartes",
+        "incorrecta1": "Karl Marx",
+        "incorrecta2": "Immanuel Kant",
+        "incorrecta3": "Friedrich Nietzsche",
+        "imagen": "https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/03/Muere-Karl-Marx-el-padre-del-comunismo-moderno-1.jpg.webp"
+    },
+    {
+        "categoria": "Filósofos y pensadores",
+        "pregunta": "¿Quién fue un discípulo de Platón y realizó contribuciones significativas a la ética y la filosofía natural?",
+        "respuesta": "Aristóteles",
+        "incorrecta1": "Sócrates",
+        "incorrecta2": "Platón",
+        "incorrecta3": "Sísifo",
+        "imagen": "https://www.alejandradeargos.com/images/filosofos/Platon/platon-biografia-pensamiento-obras.gif"
+    }
+]
